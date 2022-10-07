@@ -3,7 +3,7 @@
 一応備忘録的なものを残そうと思います。<br>
 
 <h1>共通事項</h1>
-    [pyautogui](https://github.com/asweigart/pyautogui)が必要です。
+    <a herf=https://github.com/asweigart/pyautogui>"pyautoguiが必要です。"</a>
     各ボタンを押すとディスプレイx=48 y=0　にクリック信号を入れVBAのウィンドウをアクティブにします。<br>
     その位置に他のウィンドウが存在すると予期せぬトラブルになります。<br>
     *TabキーやReturnキーは使用禁止です。*<br>
