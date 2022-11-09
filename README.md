@@ -11,7 +11,7 @@
 
 ==========================================================================================
 # 共通事項
-<a href=https://github.com/asweigart/pyautogui>pyautogui</a>が必要です。<br>
+<a href=https://github.com/asweigart/pyautogui>pyautogui</a>と<a href=https://github.com/asweigart/pyperclip>pyperclip</a>が必要です。<br>
 各ボタンを押すとディスプレイ　x=48 y=0　にクリック信号を入れVBEのウィンドウをアクティブにします。<br>
 (その位置に他のウィンドウが存在すると予期せぬトラブルに繋がります。)<br>
 <font color="Red">Tab</font> や <font color="Red">Return</font>の押下は禁止です。予期せぬトラブルに繋がります。<br>
